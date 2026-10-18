@@ -1,0 +1,49 @@
+# Atelier 05 – Gestion des exceptions
+
+**Cours :** Développement d’applications
+**Filière :** 2e année – Techniques des Systèmes Informatiques
+**Professeur :** Youness BOUKOUCHI
+**Langage :** Dart
+
+## Objectif
+
+L'objectif de cet atelier est d'apprendre à gérer les exceptions en Dart afin d'éviter l'arrêt inattendu d'un programme lorsqu'une erreur se produit.
+
+## Exercices
+
+### Exercice 1 : Try-Catch
+
+* Effectuer une division de 12 par 0.
+* Utiliser un bloc `try-catch` pour intercepter l'exception.
+* Afficher le message « Division impossible » lorsqu'une exception est rattrapée.
+
+## Technologies utilisées
+
+* Dart
+* Visual Studio Code
+* Git
+* GitHub
+
+## Exécution
+
+Pour exécuter le programme de l'exercice 1, utilisez la commande suivante dans le terminal :
+
+```bash
+dart run exercice1.dart
+```
+
+## Gestion des versions avec Git
+
+Chaque exercice est enregistré avec un commit pour conserver l'historique des modifications.
+
+Exemple :
+
+```bash
+git add .
+git commit -m "Exercice 1 - Try Catch"
+```
+
+## Auteur
+
+Étudiant(e) en 2e année – Techniques des Systèmes Informatiques.
+
